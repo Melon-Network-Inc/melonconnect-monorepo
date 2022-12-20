@@ -1,6 +1,6 @@
-# WalletConnect v2.x.x
+# Melon Connect
 
-Open protocol for connecting Wallets to Dapps - https://walletconnect.com
+<img src="https://avatars.githubusercontent.com/u/104064333?s=400&u=fe08053ed0a72719e2ea4bb0229766ef9b4fdfee&v=4" width="100">
 
 ## Setup development
 
